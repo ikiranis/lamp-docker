@@ -1,8 +1,8 @@
 ## Create Docker with Apache/PHP and Mysql
 
-- Edit .env file with your settings
+* Edit **.env** file with your settings
 
-- Run **docker-compose up -d**
+* Run **docker-compose up -d**
 
 You can create your apache image instead of **apps4net/apache** with the command:
 
