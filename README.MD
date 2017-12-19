@@ -4,7 +4,7 @@
 
 * Run **docker-compose up -d**
 
-* Put your application files in /www folder
+* Put your application files in **/www** folder
 
 You can create your apache image instead of **apps4net/apache** with the command:
 
