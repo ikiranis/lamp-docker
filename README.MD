@@ -4,7 +4,7 @@
 
 * Run **docker-compose up -d**
 
-* It will create 2 container (Apache Server and Mysql Server)
+* It will create 2 containers (Apache Server and Mysql Server)
 
 * **/www** folder will be created
 
