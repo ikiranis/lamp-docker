@@ -1,4 +1,3 @@
-#dfdd
 FROM ubuntu:latest
 MAINTAINER rocean <rocean74@gmail.com>
 
