@@ -1,2 +1,0 @@
-# LAMP_docker
-
