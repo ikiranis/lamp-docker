@@ -4,6 +4,10 @@
 
 * Run **docker-compose up -d**
 
+* It will create 2 container (Apache Server and Mysql Server)
+
+* **/www** folder will be created
+
 * Put your application files in **/www** folder
 
 You can create your apache image instead of **apps4net/apache** with the command:
