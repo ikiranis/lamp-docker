@@ -10,6 +10,8 @@
 
 * Put your application files in **/www** folder
 
+* Mysql data files will be in **/docker/mysql/data** folder
+
 You can create your apache image instead of **apps4net/apache** with the command:
 
 **docker build -t apache docker/apache**
